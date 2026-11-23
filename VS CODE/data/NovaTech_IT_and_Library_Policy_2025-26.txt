@@ -1,0 +1,22 @@
+NOVATECH IT AND LIBRARY POLICY 2025-26
+
+1. CAMPUS WI-FI
+All students receive campus Wi-Fi credentials, which are the roll number and a password set at first login. Each student may register up to 3 devices. The campus network offers 100 Mbps shared bandwidth and speed is reduced after 100 GB of usage in a month. Downloading pirated content, torrenting and accessing prohibited websites are not allowed and can lead to account suspension.
+
+2. STUDENT EMAIL AND PASSWORDS
+Every student receives an email address in the format rollnumber@students.novatech.example.edu. Passwords must have at least 12 characters with letters, numbers and a symbol, and must be changed every 180 days. Sharing passwords is a disciplinary offence. For any IT problem students can raise a ticket at helpdesk@novatech.example.edu or call extension 2222 between 9:00 AM and 6:00 PM on working days.
+
+3. COMPUTER LABS AND SOFTWARE
+Computer labs are open from 8:30 AM to 8:00 PM on weekdays. Students may use licensed software such as MATLAB, AutoCAD and Visual Studio from lab machines and may install the free student editions on personal laptops through the campus licence portal. Installing unlicensed software on lab machines is prohibited.
+
+4. LIBRARY TIMINGS
+The Central Library is open from 8:00 AM to 10:00 PM on weekdays and from 9:00 AM to 5:00 PM on Saturdays. It is closed on Sundays, except that the reading room remains open 24x7 during examination weeks.
+
+5. BORROWING RULES
+Undergraduate students can borrow 4 books for 14 days. Postgraduate students and research scholars can borrow 6 books for 21 days. Books can be renewed twice online if no one has reserved them. An overdue fine of Rs. 2 per day per book is charged. A lost book must be replaced with the same edition, or the student pays the current cost plus a Rs. 500 processing fee.
+
+6. DIGITAL LIBRARY
+The digital library gives access to IEEE Xplore, ACM Digital Library, Springer and Scopus through the campus network. Off-campus access is available through the institute VPN using the student email login. Students can request inter-library loans for books and papers that are not available in the library; delivery takes up to 7 working days.
+
+7. RESPONSIBLE USE OF AI TOOLS
+Students may use AI tools for learning. Tools must not be used during examinations or in assessments where the instructor has prohibited them. Confidential institute data, student records and exam papers must never be pasted into public AI tools.

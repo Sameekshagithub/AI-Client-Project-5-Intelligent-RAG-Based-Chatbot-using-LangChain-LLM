@@ -1,0 +1,26 @@
+# --- core RAG ---
+langchain>=0.3
+langchain-core>=0.3
+langchain-community>=0.3
+langchain-text-splitters>=0.3
+langchain-chroma>=0.2
+chromadb>=0.5
+rank-bm25>=0.2.2
+pypdf>=4.0
+# --- embeddings (neural, free, runs on CPU) ---
+langchain-huggingface>=0.1
+sentence-transformers>=3.0
+# --- LLM providers (install all; only the one you configure is used) ---
+langchain-groq>=0.2
+langchain-google-genai>=2.0
+langchain-openai>=0.2
+langchain-ollama>=0.2
+requests>=2.31
+# --- app, data, tooling ---
+streamlit>=1.50
+pandas>=2.0
+numpy>=1.26
+scikit-learn>=1.4
+reportlab>=4.0
+python-dotenv>=1.0
+pytest>=8.0

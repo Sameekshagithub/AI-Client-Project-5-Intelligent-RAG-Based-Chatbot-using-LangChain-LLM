@@ -1,0 +1,7 @@
+{
+  "embedding_label": "huggingface",
+  "n_chunks": 55,
+  "chunk_size": 256,
+  "chunk_overlap": 50,
+  "min_score": 0.332
+}
